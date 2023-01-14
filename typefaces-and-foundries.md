@@ -70,6 +70,7 @@ Some others:
 See [Type Foundry Directory](https://typefoundry.directory) for more great foundries.
 
 ## Marketplaces
+
 - [MyFonts](https://www.myfonts.com)
 - [YWFT](https://www.youworkforthem.com)
 - [FontSpring](https://www.fontspring.com)
