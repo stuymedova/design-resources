@@ -63,7 +63,6 @@ Some others:
 - [FontShop](https://www.fontshop.com)
 - [Typotheque](https://www.typotheque.com/fonts)
 - [Schick Toikka](https://www.schick-toikka.com)
-- [Monkey Type](https://monkeytype.xyz)
 - [RP](https://radimpesko.com)
 - [Riesling Type](http://www.rieslingtype.com)
 - [Hungarumlaut](https://hungarumlaut.com/typefaces.html)
